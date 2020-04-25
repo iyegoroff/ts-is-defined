@@ -36,6 +36,7 @@ workflows:
             tags:
               only: /.*/
       - publish:
+          context: iyegoroff
           requires:
             - build
           filters:
