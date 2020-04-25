@@ -1,6 +1,6 @@
 {
   "name": "ts-is-defined",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typescript utilities",
   "main": "dist/umd/index.js",
   "module": "dist/index.js",
