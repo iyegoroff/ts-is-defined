@@ -7,7 +7,7 @@
   "browser": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "preversion": "npm run lint && npm run build && npm t",
+    "preversion": "npm run lint && npm run build",
     "postversion": "git push && git push --tags",
     "build:dts": "tsc -p . -d true --emitDeclarationOnly true --removeComments false",
     "build:umd": "tsc -p . -m umd -t es5 --outDir ./dist/umd",
