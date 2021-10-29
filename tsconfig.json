@@ -4,13 +4,13 @@
     "target": "es6",
     "strict": true,
     "moduleResolution": "node",
-    "outDir": "dist",
     "removeComments": true,
     "esModuleInterop": true,
+    "noEmitOnError": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
     "types": []
-  },
-  "exclude": [
-    "node_modules",
-    "dist"
-  ]
+  }
 }
