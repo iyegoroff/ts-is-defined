@@ -49,6 +49,6 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "ts-tiny-invariant": "^1.0.3"
+    "ts-tiny-invariant": "^1.0.4"
   }
 }
