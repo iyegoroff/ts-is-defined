@@ -1,6 +1,6 @@
 {
   "name": "ts-is-defined",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Typescript utilities",
   "sideEffects": false,
   "main": "./dist/cjs/index.js",
