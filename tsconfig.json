@@ -4,8 +4,7 @@
     "target": "es2018",
     "strict": true,
     "moduleResolution": "node",
-    "outDir": "tmp",
-    "declaration": true,
+    "removeComments": true,
     "esModuleInterop": true,
     "noEmitOnError": true,
     "noImplicitReturns": true,
@@ -13,6 +12,6 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "allowUnreachableCode": false,
-    "types": []
+    "noUncheckedIndexedAccess": true
   }
 }
