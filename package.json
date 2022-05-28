@@ -1,6 +1,6 @@
 {
   "name": "ts-is-defined",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "Typescript utilities",
   "sideEffects": false,
   "types": "./dist/dts/index.d.ts",
